@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine necessarie articles set out by the Archbishop of Yorke and his associates, commissioners in causes ecclesiasticall, to be obserued in the diocesse of Yorke, 158[4?] Martij 3</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1584</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21820</idno>
+            <idno type="STC">STC 8145.5</idno>
+            <idno type="STC">ESTC S4226</idno>
+            <idno type="EEBO-CITATION">23525016</idno>
+            <idno type="OCLC">ocm 23525016</idno>
+            <idno type="VID">26705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1813:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine necessarie articles set out by the Archbishop of Yorke and his associates, commissioners in causes ecclesiasticall, to be obserued in the diocesse of Yorke, 158[4?] Martij 3</title>
+                  <author>Church of England. Diocese of York. Archbishop (1576-1588 : Sandys)</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>J. Kingston,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1584]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date in title on t.p. altered by pen to 1583.</note>
+                  <note>Signed at bottom: Edwyne Eborum, Mathewe Hutton, Ro. Lougher, VVilliam Palmer, Henry VVright, Ry. Percy.</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Formerly STC 8136.--Cf. STC (2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Church of England --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:26705:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>¶ Certaine neceſſarie Articles ſet out by the Archbiſhop of Yorke and his Aſſociates, Commiſſioners in cauſes <hi>Eccleſiasticall, to be obſerued in the Dioceſſe of Yorke.</hi> 
+               <date>1582. <hi>Martij.</hi> 3.</date>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas not withstandyng the greate plentie of knowledge whiche in theſe daies of the Goſpell it hath pleaſed God to powre forth among vs in moſt bountifull maner: yet diuers of the people in many places remaine ſtill in ignoraunce and Superstition, not muche regardyng godly instruction, and withdrawyng them ſelues more and more from diuine ſeruice on the Sabboth daies and other Hollidaies by law appoin<g ref="char:EOLhyphen"/>ted, vpon euery triefling occaſion, whiche rather folowyng their owne phantaſie, and ſeeking their owne pleaſures, then ſtudying to ſerue God according to his lawes. VVe haue thought good on the behalf of the glorie of God, and for the ſoules health of the people, to haue a ſpe<g ref="char:EOLhyphen"/>ciall regarde to this matter, and by the aucthoritie of the high Commiſſion for cauſes Eccleſiasticall to vs committed, to prouide that the good and godlie lawes on that behalfe made, bee more diligently put in execution, vppon paine of ſuche cenſures, puniſhmentes, and fines, as by the Queenes Maistes lawes and her highneſſe Commiſſion to vs directed are alreadie prouided: and ſo muche the rather at this preſent, becauſe of the want of conuenient instruction, and by meanes of ſo muche abſenting themſelues from the Church, and the needful exerciſes of Religio<g ref="char:cmbAbbrStroke">̄</g> vſed therein, diuers of them do become in the end wilful recu<g ref="char:EOLhyphen"/>ſantes, and very euill ſubiectes beſides: as diuers examples of late haue giuen ſufficient testimonie thereof.</hi>
+            </p>
+            <p>
+               <hi>VVe therfore, Edwin by the grace of God, Archbiſhop of Yorke, Primate of England, and Metropoli<g ref="char:EOLhyphen"/>tane, and other our Aſſociates her Maiesties Commiſſioners for cauſes Eccleſiasticall within the Pro<g ref="char:EOLhyphen"/>uince of Yorke: whoſe names are vnder written, do in the name of God moſt instantly require, and by ver<g ref="char:EOLhyphen"/>tue of her Maiesties Co<g ref="char:cmbAbbrStroke">̄</g>miſſion afore ſaid, to vs and others directed moſt ſtraightly, charge and co<g ref="char:cmbAbbrStroke">̄</g>maund that theſe fewe pointes enſewing, be more diligently obſerued of all, as vnto euery one it ſhall appertaine.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, <note place="margin">That Mini<g ref="char:EOLhyphen"/>ſters doe their duetie.</note> that all which are of the Miniſterie, do not only reade vnto the people diſtinctly and re<g ref="char:EOLhyphen"/>uerently diuine Seruice and Homilies, and (ſuche as are able and aucthoriſed) preache vnto them likewiſe as is appointed, but alſo that they Catechiſe the yonger ſorte as is preſcribed, teaching them both to ſaie it by harte and to vnderſtande the ſame in reaſonable maner: And that in quiet and gentle maner they likewiſe teach the reſidue of their Pariſhe (ſo many <gap reason="illegible: under-inked" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <unclear>alreadie</unclear> can<g ref="char:EOLunhyphen"/>not doe it) the Articles of the faith, the ten Commaundements, and the Lords Praier, both to ſaie them by harte, and in ſome good meaſure alſo to vnderſta<g ref="char:cmbAbbrStroke">̄</g>d them, and that they doe it in ſo diligent and faith<g ref="char:EOLhyphen"/>ful maner, as becometh &amp; behoueth thoſe which are to giue accompt of the ſame in the daie of the Lord.</p>
+            <p>Secondly, <note place="margin">That the people keepe Church and Catechiſme.</note> that the people themſelues together with their children and ſeruaunts come diligently bothe to Mornyng and Euenyng Praier: and that then and there they giue diligent eare withal reue<g ref="char:EOLhyphen"/>rence to the worde of God, and that they haue their ſeruauntes and children at conuenient tyme in the afternoone at Euening Praier, as is alreadie appointed, to the Catechiſme, to be inſtructed and exami<g ref="char:EOLhyphen"/>ned therein: and themſelues likewiſe ſo oft as thei may conueniently be alſo there, to heare thoſe things expounded for their owne inſtruction, that ſo they maie be more readie to come to the Lords Table ſo often and accordingly, as by law they are bounde at the leaſt.</p>
+            <p>Thirdly,<note place="margin">That church warde<g ref="char:cmbAbbrStroke">̄</g>s take the forfaiture of abſentes.</note> that the Church wardens bee not abſent themſelues neither from Morning nor Euening Praier without ſpeciall cauſe: and in ſuche caſe, that they haue ſome of their honeſt neighbors ſufficient for the office to ſupplie their roumes. And that they diligently marke what Houſholders or others of their families are abſent either from diuine Seruice or Catechiſme, or otherwiſe miſbehaue themſelues there, that after Seruice together with their Miniſter they take a note thereof in writing (eſpecially of the cheefeſt offenders) and after leuy of them by way of diſtreſſe the for faiture by Statute appointed (if they haue not lawfull and reaſonable cauſe of their abſence) as they are by Statute directed: and that they beſtow the ſame on the poore as accordingly is appointed: And that if any Churchwardens make default herein, the Miniſter certifie vs thereof in conuenient time, that reformation thereof be not ouer<g ref="char:EOLhyphen"/>long delaied.</p>
+            <p>Fourthly, <note place="margin">That church wardens keepe a note thereof.</note> that the Churchwardens ſhall keepe a continuall accompt of ſuch ſommes ſo receiued and beſtowed, and once euery quarter of the yere make by thoſe accomptes to their owne proper Miniſters in writing: and that done, laie the ſame vp in the common Cheſt vnder ſafe cuſtodie to be in a readineſſe to be ſhewed to the ſaied Archbiſhopp and his ſaied Aſſociates, or to three of them; ſo often as they ſhall thinke good to call for the ſame, or otherwiſe to be ſhewed to ſuch as they ſhall think good from tyme to tyme to appoint for the better execution thereof and eaſe of the people, that ſo the offenders therein may be knowne and puniſhed accordingly.</p>
+            <p>Laſtly, wee exhorte and require all Preachers lawfully aucthoriſed, that thei doe not onely looke to their owne charge, but alſo ſo much as conueniently they can, help to ſupplie the want which is in their next and nigh neighbours not able by themſelues to feed their flock. And we alſo charge &amp; commaunde the Churchwardens that they ſuffer none to preache, or ſerue as Curate, vnleſſe they bee allowed and lawfull<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> licenſed therevnto by ſufficient aucthoritie.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Edwyne Eborum.</item>
+                     <item>VVilliam Palmer.</item>
+                     <item>Mathewe Hutton.</item>
+                     <item>Henry VVright.</item>
+                     <item>Ro. Lougher.</item>
+                     <item>Ry. Percy.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
